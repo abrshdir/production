@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1552657838172,
+  "timestamp": 1552917757633,
   "index": "https://abrshdir.github.io/production/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "https://abrshdir.github.io/production/es2015-polyfills.c5dd28b362270c767b34.js",
         "https://abrshdir.github.io/production/favicon.ico",
         "https://abrshdir.github.io/production/index.html",
-        "https://abrshdir.github.io/production/main.b907c1377ceb67ece6c7.js",
+        "https://abrshdir.github.io/production/main.5c58394b98fe05c658b0.js",
         "https://abrshdir.github.io/production/polyfills.8bbb231b43165d65d357.js",
         "https://abrshdir.github.io/production/runtime.26209474bfa8dc87a77c.js",
-        "https://abrshdir.github.io/production/styles.09122de3aba52b902d6d.css"
+        "https://abrshdir.github.io/production/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -30,13 +30,7 @@
         "https://abrshdir.github.io/production/assets/icons/icon-384x384.png",
         "https://abrshdir.github.io/production/assets/icons/icon-512x512.png",
         "https://abrshdir.github.io/production/assets/icons/icon-72x72.png",
-        "https://abrshdir.github.io/production/assets/icons/icon-96x96.png",
-        "https://abrshdir.github.io/production/assets/sedan.jpg",
-        "https://abrshdir.github.io/production/fontawesome-webfont.674f50d287a8c48dc19b.eot",
-        "https://abrshdir.github.io/production/fontawesome-webfont.912ec66d7572ff821749.svg",
-        "https://abrshdir.github.io/production/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
-        "https://abrshdir.github.io/production/fontawesome-webfont.b06871f281fee6b241d6.ttf",
-        "https://abrshdir.github.io/production/fontawesome-webfont.fee66e712a8a08eef580.woff"
+        "https://abrshdir.github.io/production/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -51,19 +45,13 @@
     "https://abrshdir.github.io/production/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://abrshdir.github.io/production/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://abrshdir.github.io/production/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://abrshdir.github.io/production/assets/sedan.jpg": "7fe16567c5a52a72bdd83410d79ac03f98bc7060",
     "https://abrshdir.github.io/production/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "https://abrshdir.github.io/production/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://abrshdir.github.io/production/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
-    "https://abrshdir.github.io/production/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
-    "https://abrshdir.github.io/production/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
-    "https://abrshdir.github.io/production/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
-    "https://abrshdir.github.io/production/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "https://abrshdir.github.io/production/index.html": "3038c7af7b5de3f72c578a8751cce2b092382bbc",
-    "https://abrshdir.github.io/production/main.b907c1377ceb67ece6c7.js": "98d8e8d882e10fa0b78ad50f0e69613ee89e92e0",
+    "https://abrshdir.github.io/production/index.html": "231ef4fce8ae92e4a5dbf8521b4ae7a94971a950",
+    "https://abrshdir.github.io/production/main.5c58394b98fe05c658b0.js": "cc04c17a238391bcde66f93656418a8099a07e59",
     "https://abrshdir.github.io/production/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://abrshdir.github.io/production/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://abrshdir.github.io/production/styles.09122de3aba52b902d6d.css": "bac4ffdd2879589119a4f5d12d846acdc22af37d"
+    "https://abrshdir.github.io/production/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {

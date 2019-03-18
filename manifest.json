@@ -1,11 +1,11 @@
 {
-  "name": "myapp",
-  "short_name": "myapp",
+  "name": "abrsh",
+  "short_name": "abrsh",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/production/index.html",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
